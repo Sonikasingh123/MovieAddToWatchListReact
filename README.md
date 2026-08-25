@@ -10,4 +10,8 @@ and fetching data from an external API https://www.themoviedb.org/  ===>The Movi
 
 ![img alt](https://github.com/Sonikasingh123/MovieAddToWatchListReact/blob/main/Addtowatchlist.png)
 
+# After movie has been added to watchlist it reflects in watchlist and if we search again in movies to be added in watchlist the button for that particular movie becomes disbled.
+
+
+
 
