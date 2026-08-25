@@ -8,4 +8,6 @@ In this project we'll be creating a movie watchlist using React, implementing Re
 
 and fetching data from an external API https://www.themoviedb.org/  ===>The Movie Database.
 
+![img alt](https://github.com/Sonikasingh123/MovieAddToWatchListReact/blob/main/Addtowatchlist.png)
+
 
